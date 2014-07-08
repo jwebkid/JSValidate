@@ -10,11 +10,11 @@ var Validate = function(config){
 	}
 
 	this.fails = function(){
-		return this.errors.length == 0 ? true : false;
+		return Object.keys(this.errors).length == 0 ? false : true;
 	}
 
 	this.passes = function(){
-		return this.errors.length != 0 ? true : false;
+		return Object.keys(this.errors).length == 0 ? true : false;
 	}
 
 	this.exec = function(){
