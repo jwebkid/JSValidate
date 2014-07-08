@@ -1,7 +1,7 @@
 JavaScript Validator
 ===========
 
-This is a small JavaScript class which helps front end developers to validate their forms.
+This is a small JavaScript class which helps front end developers to validate their forms. This class is still in its early stages! Please participate so that we can cover more and more validation methods!
 
 ##Getting Started
 ###Installing
