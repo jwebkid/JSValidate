@@ -1,4 +1,4 @@
-JavaScript Validator
+JavaScript Validate
 ===========
 
 This is a small JavaScript class which helps front end developers to validate their forms. This class is still in its early stages! Please participate in creating more validation methods and messages!
