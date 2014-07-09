@@ -1,6 +1,6 @@
 /*
 *
-*	@author Luca Tabone
+*	@author Luca Tabone | lucatabone.com
 *
 * 	Creates an instance of Validate
 *	@constructor
