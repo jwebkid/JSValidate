@@ -6,7 +6,7 @@ This is a small JavaScript class which helps front end developers to validate th
 ##Getting Started
 ###Installing
 Download Validator.js and refernce it into your HTML. Once this is done you will be able to make use of the functionality which `Validate` object offers. 
-`<script src="Validator.js"></script>`
+`<script src="Validate.js"></script>`
 
 The first thing that you need to do before you can start using `Validate` is to create a JSON object containing rules which different input elements must follow:
 
