@@ -27,18 +27,18 @@ The above JSON file is targetting input elements which have their id attribtue s
     //Creation of Validate
     var val = new Validate(obj);
     //Execution of Validate
-    val->exec();
+    val.exec();
     
 At this point the `Validate` class has validated all the input attributes referenced in the `obj` JSON file. In order to check whether the validation has passed or failed, use the following methods:
 
     //Check whether the validation has passed:
-    $val->passes();
+    val.passes();
     
     //Check whether the validation has failed:
-    $val->fails();
+    val.fails();
     
     //To get the list of errors:
-    $val->errors();
+    val.errors();
     
 Errors will be returneed in a JSON format:
 
